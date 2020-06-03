@@ -1,6 +1,6 @@
 # pokeapp
 
-A new Flutter application.
+An Basic Application using the pokemon go API
 
 ## Getting Started
 
